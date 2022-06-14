@@ -1,0 +1,6 @@
+Agreement Name: "String - The name of the agreement for monitoring purposes"
+Destination system: "String - DNS name or IP address of the CIFS service the objects will be stored into"
+Destination folder: "String - the full path under the destination system for the root of the replication"
+Collections: "[String]  an array of collection names covered by this replication definition"
+Schedule: "String - cron-like specification for replication schedule"
+Fetch Metadata: "Binary - If set to true the replication job will store the metadata object along with the binary"
