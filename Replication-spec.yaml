@@ -1,4 +1,4 @@
-Agreement Name: "shakedtest"
+Agreement Name: "72384273908"
 Destination system: "String - DNS name or IP address of the CIFS service the objects will be stored into"
 Destination folder: "String - the full path under the destination system for the root of the replication"
 Collections: "[String]  an array of collection names covered by this replication definition"
